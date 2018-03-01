@@ -1,7 +1,13 @@
 # year3-story-2018
-repository to fork for the 'git story' assessment
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+Git story 2018 - Student Maria del Mar Palomares Marin B00100180
 
-.. matt smith ...
+LINK to repository: https://github.com/mariapalomares/year3-story-2018.git
+
+Summary of contents
+	Chapter01 - 
+		Status: 01/02/2018 First draft
+	Chapter02
+		Status: 01/03/2018 - not published yet
+	Chapter03
+		Status: 01/03/2018 - not published yet
