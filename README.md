@@ -5,7 +5,7 @@
 #### LINK to repository: https://github.com/mariapalomares/year3-story-2018.git
 #### LINK to pages:
 			* Chapter01 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter01.html 
-			* Chapter02 url:
+			* Chapter02 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter02.html
 			* Chapter03 url:
 * Summary of the story :book:
 	* A new short story of Sherlock Holmes and Dr. Watson take us to a new fascinating case about a man's disappearance and the mythical philosophical stone.
@@ -15,11 +15,20 @@
 		* Status: :calendar: 01/03/2018 Update of the beginning of the Chapter01 and adding the second part of chapter01
 	* ### Chapter02
 		* Status: :calendar: 01/03/2018 - not published yet
-		* Statis: :calendar: 02/03/2018 - Publish first draft chapter 1
+		* Status: :calendar: 02/03/2018 - Publish first draft chapter 1
 	* ### Chapter03
 		* Status: :calendar: 01/03/2018 - not published yet
 		
-* Updates on README.md
-		* :calendar: 01/03/2018 - Creation README.md, addition of link to repo, link to chapter 01, summary of the story, summary of contents, 
-			formating, update info about chapter01.
-		* :calendar: 02/03/2018 - update info about chapter02, 
+* ## Updates on README.md :memo:
+	* :calendar: 01/03/2018 
+		* Creation README.md, 
+		* addition of link to repo
+		* link to chapter 01,
+		* summary of the story, 
+		* summary of contents, 
+		* style Markdown, 
+		* update info about chapter01.
+	* :calendar: 02/03/2018 
+		* update info about chapter02, 
+		* correction of misspellings 
+		* adding link for chapter02
