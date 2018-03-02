@@ -15,5 +15,11 @@
 		* Status: :calendar: 01/03/2018 Update of the beginning of the Chapter01 and adding the second part of chapter01
 	* ### Chapter02
 		* Status: :calendar: 01/03/2018 - not published yet
+		* Statis: :calendar: 02/03/2018 - Publish first draft chapter 1
 	* ### Chapter03
 		* Status: :calendar: 01/03/2018 - not published yet
+		
+* Updates on README.md
+		* :calendar: 01/03/2018 - Creation README.md, addition of link to repo, link to chapter 01, summary of the story, summary of contents, 
+			formating, update info about chapter01.
+		* :calendar: 02/03/2018 - update info about chapter02, 
