@@ -3,13 +3,20 @@
 ## Git story 2018 - ITB Student Maria del Mar Palomares Marin B00100180
 
 #### LINK to repository: https://github.com/mariapalomares/year3-story-2018.git
+#### LINK to published repository: https://mariapalomares.github.io/year3-story-2018/
 #### LINK to pages:
 			* Chapter01 url:  
 			* Chapter02 url:  
 			* Chapter03 url:
-* Summary of the story :book:
+##Sumary
+			
+* The story :book:
 	* A new short story of Sherlock Holmes and Dr. Watson take us to a new fascinating case about a man's disappearance and the mythical philosophical stone.
 * ## Summary of contents
+	*### Chapter 1
+	*### Chapter 2
+	*### chapter 3
+* ## Summary of status
 	* ### Chapter01 - 
 		* Status: :calendar: 01/03/2018 First draft chapter 1
 		* Status: :calendar: 01/03/2018 1) Update of the beginning of the Chapter 1; 2)adding the second part of chapter 1
@@ -18,6 +25,7 @@
 	* ### Chapter02
 		* Status: :calendar: 01/03/2018 - not created yet
 		* Status: :calendar: 02/03/2018 - 1) Published first draft chapter 1; 2) addition second paragraph; 
+		* Status: :calendar: 19/03/2018 - new paragraph added, grammar and spelling corrections, changes in paragraph 1
 	* ### Chapter03
 		* Status: :calendar: 01/03/2018 - not created yet
 		* Status: :calendar: 02/03/2018 - Published 
@@ -47,5 +55,5 @@
 		* Update: chapter 1 - adding header, changes in section
 		* Chapter1 -Final version, spelling corrected
 		* Chapter03 adding paragraphs, checking spelling
-		* 
+		* update status chapter 2
 		
