@@ -19,18 +19,18 @@
 	Status:  02/03/2018 1) Changing end of chapter 1
 	Status:  19/03/2018 1) Final version
 #### Chapter02
-	Status: 02/03/2018 - 1) Published first draft chapter 1; 
+	Status: 02/03/2018  1) Published first draft chapter 1; 
 						2) addition second paragraph; 
-	Status: 19/03/2018 - new paragraph added
+	Status: 19/03/2018  new paragraph added
 #### Chapter03
-	Status:  02/03/2018 - Published 
-	Status:  19/03/2018 - Added 3rd, 4th paragraph 
+	Status:  02/03/2018 Published 
+	Status:  19/03/2018 Added 3rd, 4th paragraph 
 #### Alternative Ending
-	Status:  02/03/2018 - 1) Created new branch; 
-								2) Created file and upload to new branch;
-								3) update first paragraph
+	Status:  02/03/2018 1) Created new branch; 
+						2) Created file and upload to new branch;
+						3) update first paragraph
 		
-### Github Links
+#Github Links
 	[Github Account](https://github.com/mariapalomares)
 	[Github Repository](https://github.com/mariapalomares/year3-story-2018.git)	
 	[Github Project Page](https://mariapalomares.github.io/year3-story-2018/)
