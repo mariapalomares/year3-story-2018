@@ -16,28 +16,29 @@
 	
 [Chapter 4 - Epilogue](https://mariapalomares.github.io/year3-story-2018/chapter04.html)
 
-#Project Status - Not finished
+# Project Status - Not finished
 
-	Chapter 1 - Finished
+	### Chapter 1 - Finished
 	
 	Status:  01/03/2018 First draft chapter 1
 	Status:  02/03/2018 Changing end of chapter 1
 	Status:  19/03/2018 Final version and release V 1.0
 	
-	Chapter02 - Not finished
+	### Chapter02 - Not finished
 	
 	Status: 02/03/2018  First draft
 	Status: 19/03/2018  new paragraph added
 	
-	Chapter 3 - Not finished
+	### Chapter 3 - Not finished
 	
 	Status:  02/03/2018 First draft 
 	Status:  19/03/2018 Added 3rd, 4th paragraph 
 	
-	Chapter 4 - Not finished
+	### Chapter 4 - Not finished
+	
 	Status: 19/03/2018 First draft
 	
-	Alternative Ending - Not finished
+	### Alternative Ending - Not finished
 	
 	Status:  02/03/2018 Created new branch and first draft 
 						
@@ -47,7 +48,7 @@
 	
 	
 		
-#Github Links
+# Github Links
 
 [Github Account](http://github.com/mariapalomares)
 
