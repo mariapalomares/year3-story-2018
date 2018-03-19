@@ -6,17 +6,19 @@
 		Doctor Watson take us to a new fascinating 
 		case a man's disappearance and the mythical philosophical stone		
 
-	[Chapter 1- The woman in Red](https://mariapalomares.github.io/year3-story-2018/chapter01.html)
+# Summary of Content
+
+[Chapter 1- The woman in Red](https://mariapalomares.github.io/year3-story-2018/chapter01.html)
 	
-	[Chapter 2 - Under the Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
+[Chapter 2 - Under the Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
 	
-	[Chapter 3 - The Secret Corridor](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
+[Chapter 3 - The Secret Corridor](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
 	
-	[Chapter 4 - Epilogue](https://mariapalomares.github.io/year3-story-2018/chapter04.html)
+[Chapter 4 - Epilogue](https://mariapalomares.github.io/year3-story-2018/chapter04.html)
 
 #Project Status - Not finished
 
-	Chapter01
+	Chapter01 - Finished
 	
 
 	Status:  01/03/2018 First draft chapter 1
@@ -48,12 +50,13 @@
 						3) update first paragraph
 # Releases
 
+	Chapter 1 - Release 1.0
 	
 	
 		
-##Github Links
+#Github Links
 
 
-	 [Github Account](https://github.com/mariapalomares)
+	 [Github Account](http://github.com/mariapalomares)
 	 [Github Repository](https://github.com/mariapalomares/year3-story-2018.git)	
 	 [Github Project Page](https://mariapalomares.github.io/year3-story-2018/)
