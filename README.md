@@ -2,11 +2,12 @@
 
 ## Git story 2018 - ITB Student - Maria del Mar Palomares Marin B00100180
 	* Title: Sherlock Holmes and the Philosophical Stone
-		Summary of story: A new short story of Sherlock Holmes and Doctor Watson take us to a new fascinating 
+		Summary of story: A new short story of Sherlock Holmes and 
+		Doctor Watson take us to a new fascinating 
 		case a man's disappearance and the mythical philosophical stone.
 
-### Project Chapters
-	*### [Chapter 1 - The Woman in Red] https://mariapalomares.github.io/year3-story-2018/chapter01.html 
+### Summary of Contents
+	*### <a href="https://mariapalomares.github.io/year3-story-2018/chapter01.html">Chapter 1 - The Woman in Red</a>
 	*###
 	*###
 
@@ -26,7 +27,7 @@
 		* Status: :calendar: 02/03/2018 - 1) Created new branch; 2) Created file and upload to new branch; 3) update first paragraph
 		
 ### Github Links
-	* ## [User Account] https://github.com/mariapalomares
-	* ## [Github repository] https://github.com/mariapalomares/year3-story-2018.git		
-	* ## [Github Page]  https://mariapalomares.github.io/year3-story-2018/
+	* ## <a href="https://github.com/mariapalomares">Github User Account</a>
+	* ## <a href="https://github.com/mariapalomares/year3-story-2018.git">Github Repository</a>	
+	* ## <a href="https://mariapalomares.github.io/year3-story-2018/">Github Page</a>
 		
