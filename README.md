@@ -13,13 +13,16 @@
 	* ### Chapter01 - 
 		* Status: :calendar: 01/03/2018 First draft chapter 1
 		* Status: :calendar: 01/03/2018 1) Update of the beginning of the Chapter 1; 2)adding the second part of chapter 1
-		* Status: :calendar: 02/03/2018 1) Changing end of chapter 1, 2) addition annoted tags, 
+		* Status: :calendar: 02/03/2018 1) Changing end of chapter 1; 2) addition annoted tags, 
 	* ### Chapter02
-		* Status: :calendar: 01/03/2018 - not published yet
+		* Status: :calendar: 01/03/2018 - not created yet
 		* Status: :calendar: 02/03/2018 - 1) Publish first draft chapter 1; 2) addition second paragraph; 
 	* ### Chapter03
-		* Status: :calendar: 01/03/2018 - not published yet
+		* Status: :calendar: 01/03/2018 - not created yet
 		* Status: :calendar: 02/03/2018 - Publish 
+	* ### Alternative Ending
+		* Status: :calendar: 01/03/2018 - not created
+		* Status: :calendar: 02/03/2018 - 1) Created new branch; 2) Created file and upload to new branch; 3) update first paragraph
 		
 * ## Updates on README.md :memo:
 	* :calendar: 01/03/2018 
@@ -35,3 +38,8 @@
 		* correction of misspellings 
 		* adding link for chapter02
 		* update info chapter03
+		* Creation new branch alternative_ending
+		* Update info Alternative Ending
+		
+	* :calendar: 19/03/2018
+		* Update: chapter 1 - adding header, changes in section
