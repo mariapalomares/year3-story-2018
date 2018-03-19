@@ -1,11 +1,11 @@
 # year3-story-2018
 
-## Git story 2018 - Student Maria del Mar Palomares Marin B00100180
+## Git story 2018 - ITB Student Maria del Mar Palomares Marin B00100180
 
 #### LINK to repository: https://github.com/mariapalomares/year3-story-2018.git
 #### LINK to pages:
-			* Chapter01 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter01.html 
-			* Chapter02 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter02.html
+			* Chapter01 url:  
+			* Chapter02 url:  
 			* Chapter03 url:
 * Summary of the story :book:
 	* A new short story of Sherlock Holmes and Dr. Watson take us to a new fascinating case about a man's disappearance and the mythical philosophical stone.
@@ -13,13 +13,15 @@
 	* ### Chapter01 - 
 		* Status: :calendar: 01/03/2018 First draft chapter 1
 		* Status: :calendar: 01/03/2018 1) Update of the beginning of the Chapter 1; 2)adding the second part of chapter 1
-		* Status: :calendar: 02/03/2018 1) Changing end of chapter 1; 2) addition annoted tags, 
+		* Status: :calendar: 02/03/2018 1) Changing end of chapter 1
+		* Status: :calendar: 19/03/2018 1) Final version
 	* ### Chapter02
 		* Status: :calendar: 01/03/2018 - not created yet
-		* Status: :calendar: 02/03/2018 - 1) Publish first draft chapter 1; 2) addition second paragraph; 
+		* Status: :calendar: 02/03/2018 - 1) Published first draft chapter 1; 2) addition second paragraph; 
 	* ### Chapter03
 		* Status: :calendar: 01/03/2018 - not created yet
-		* Status: :calendar: 02/03/2018 - Publish 
+		* Status: :calendar: 02/03/2018 - Published 
+		
 	* ### Alternative Ending
 		* Status: :calendar: 01/03/2018 - not created
 		* Status: :calendar: 02/03/2018 - 1) Created new branch; 2) Created file and upload to new branch; 3) update first paragraph
@@ -43,3 +45,7 @@
 		
 	* :calendar: 19/03/2018
 		* Update: chapter 1 - adding header, changes in section
+		* Chapter1 -Final version, spelling corrected
+		* 
+		* 
+		
