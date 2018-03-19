@@ -21,7 +21,7 @@
 	* ### Chapter03
 		* Status: :calendar: 01/03/2018 - not created yet
 		* Status: :calendar: 02/03/2018 - Published 
-		* Status: :calendar: 19/03/2018 - Added 2 last paragraph (final)
+		* Status: :calendar: 19/03/2018 - Added 3rd, 4th paragraph 
 	* ### Alternative Ending
 		* Status: :calendar: 01/03/2018 - not created
 		* Status: :calendar: 02/03/2018 - 1) Created new branch; 2) Created file and upload to new branch; 3) update first paragraph
@@ -46,6 +46,6 @@
 	* :calendar: 19/03/2018
 		* Update: chapter 1 - adding header, changes in section
 		* Chapter1 -Final version, spelling corrected
-		* 
+		* Chapter03 adding paragraphs, checking spelling
 		* 
 		
