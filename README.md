@@ -1,37 +1,63 @@
 # year3-story-2018
 
-## Git story 2018 - Student Maria del Mar Palomares Marin B00100180
+## Git story 2018 - ITB Student - Maria del Mar Palomares Marin  
+		Sherlock Holmes and the Philosophical Stone
+		Summary of story: A new short story of Sherlock Holmes and 
+		Doctor Watson take us to a new fascinating 
+		case a man's disappearance and the mythical philosophical stone		
 
-#### LINK to repository: https://github.com/mariapalomares/year3-story-2018.git
-#### LINK to pages:
-			* Chapter01 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter01.html 
-			* Chapter02 url:  https://github.com/mariapalomares/year3-story-2018/blob/master/chapter02.html
-			* Chapter03 url:
-* Summary of the story :book:
-	* A new short story of Sherlock Holmes and Dr. Watson take us to a new fascinating case about a man's disappearance and the mythical philosophical stone.
-* ## Summary of contents
-	* ### Chapter01 - 
-		* Status: :calendar: 01/03/2018 First draft chapter 1
-		* Status: :calendar: 01/03/2018 1) Update of the beginning of the Chapter 1; 2)adding the second part of chapter 1
-		* Status: :calendar: 02/03/2018 1) Changing end of chapter 1, 2) addition annoted tags, 
-	* ### Chapter02
-		* Status: :calendar: 01/03/2018 - not published yet
-		* Status: :calendar: 02/03/2018 - 1) Publish first draft chapter 1; 2) addition second paragraph; 
-	* ### Chapter03
-		* Status: :calendar: 01/03/2018 - not published yet
-		* Status: :calendar: 02/03/2018 - Publish 
+# Summary of Content
+
+[Chapter 1- The woman in Red](https://mariapalomares.github.io/year3-story-2018/chapter01.html)
+	
+[Chapter 2 - The Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
+	
+[Chapter 3 - The Secret Passage](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
+
+
+
+# Project Status - Not finished
+
+	Chapter 1 - Finished
+	
+	Status:  01/03/2018 First draft chapter 1
+	Status:  02/03/2018 Changing end of chapter 1
+	Status:  19/03/2018 Final version and release v1.0
+	
+	Chapter02 - Finished
+	
+	Status: 02/03/2018  First draft
+	Status: 19/03/2018  new paragraph added
+	Status: 20/03/2018  Final version and release v1.1
+	
+	Chapter 3 - Finished
+	
+	Status:  02/03/2018 First draft 
+	Status:  19/03/2018 Added 3rd, 4th paragraph 
+	Status:  20/03/2018 Added end and Final version, release v1.2
+	
 		
-* ## Updates on README.md :memo:
-	* :calendar: 01/03/2018 
-		* Creation README.md, 
-		* addition of link to repo
-		* link to chapter 01,
-		* summary of the story, 
-		* summary of contents, 
-		* style Markdown, 
-		* update info about chapter01.
-	* :calendar: 02/03/2018 
-		* update info about chapter02, 
-		* correction of misspellings 
-		* adding link for chapter02
-		* update info chapter03
+	Alternative Ending - Not finished
+	
+	Status:  02/03/2018 Created new branch and first draft 
+	Status:  20/03/2018 Final draft added
+						
+# Releases
+
+[Chapter 1 - Release v1.0](https://github.com/mariapalomares/year3-story-2018/releases/tag/v1.0)
+
+[Chapter 2 - Release v1.1](https://github.com/mariapalomares/year3-story-2018/releases/tag/v1.1)
+
+[Chapter 3 - Release v1.2](https://github.com/mariapalomares/year3-story-2018/releases/tag/v1.2)
+
+[Story Release v2.0]()
+	
+	
+		
+# Github Links
+
+[Github Account](http://github.com/mariapalomares)
+
+[Github Repository](https://github.com/mariapalomares/year3-story-2018.git)	
+
+[Github Project Page](https://mariapalomares.github.io/year3-story-2018/)
