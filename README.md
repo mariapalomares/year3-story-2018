@@ -13,7 +13,7 @@
 [Chapter 2 - The Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
 	
 [Chapter 3 - The Secret Passage](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
-	
+
 
 
 # Project Status - Not finished
@@ -40,6 +40,7 @@
 	Alternative Ending - Not finished
 	
 	Status:  02/03/2018 Created new branch and first draft 
+	Status:  20/03/2018 Final draft added
 						
 # Releases
 
@@ -49,8 +50,7 @@
 
 [Chapter 3 - Release v1.2](https://github.com/mariapalomares/year3-story-2018/releases/tag/v1.2)
 
-[Story Release v2
-.0]()
+[Story Release v2.0]()
 	
 	
 		
