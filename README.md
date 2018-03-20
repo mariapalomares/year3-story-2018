@@ -12,9 +12,9 @@
 	
 [Chapter 2 - Under the Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
 	
-[Chapter 3 - The Secret Corridor](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
+[Chapter 3 - The Secret Passage](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
 	
-[Chapter 4 - Epilogue](https://mariapalomares.github.io/year3-story-2018/chapter04.html)
+
 
 # Project Status - Not finished
 
@@ -22,22 +22,21 @@
 	
 	Status:  01/03/2018 First draft chapter 1
 	Status:  02/03/2018 Changing end of chapter 1
-	Status:  19/03/2018 Final version and release V 1.0
+	Status:  19/03/2018 Final version and release v1.0
 	
-	### Chapter02 - Not finished
+	### Chapter02 - Finished
 	
 	Status: 02/03/2018  First draft
 	Status: 19/03/2018  new paragraph added
+	Status: 20/03/2018  Final version and release v1.0
 	
-	### Chapter 3 - Not finished
+	### Chapter 3 - Finished
 	
 	Status:  02/03/2018 First draft 
 	Status:  19/03/2018 Added 3rd, 4th paragraph 
+	Status:  20/03/2018 Added end and Final version
 	
-	### Chapter 4 - Not finished
-	
-	Status: 19/03/2018 First draft
-	
+		
 	### Alternative Ending - Not finished
 	
 	Status:  02/03/2018 Created new branch and first draft 
@@ -45,6 +44,10 @@
 # Releases
 
 [Chapter 1 - Release v1.0](https://github.com/mariapalomares/year3-story-2018/releases/tag/v1.0)
+
+[Chapter 2 - Release v1.0]()
+
+[Chapter 3 - Release v.0]()
 	
 	
 		
