@@ -10,7 +10,7 @@
 
 [Chapter 1- The woman in Red](https://mariapalomares.github.io/year3-story-2018/chapter01.html)
 	
-[Chapter 2 - Under the Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
+[Chapter 2 - The Stone](https://mariapalomares.github.io/year3-story-2018/chapter02.html)
 	
 [Chapter 3 - The Secret Passage](https://mariapalomares.github.io/year3-story-2018/chapter03.html)
 	
