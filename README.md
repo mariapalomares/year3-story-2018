@@ -4,7 +4,7 @@
 		Sherlock Holmes and the Philosophical Stone
 		Summary of story: A new short story of Sherlock Holmes and 
 		Doctor Watson take us to a new fascinating 
-		case a man's disappearance and the mythical philosophical stone		
+		case of a man's disappearance and the mythical philosophical stone.	
 
 # Summary of Content
 
@@ -41,6 +41,7 @@
 	
 	Status:  02/03/2018 Created new branch and first draft 
 	Status:  20/03/2018 Final draft added
+	Status:  24/03/2018 Final version alternative ending
 						
 # Releases
 
